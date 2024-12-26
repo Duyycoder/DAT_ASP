@@ -1,38 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\TLHT\\ASP.NET\\KTHP\\FinalTest1\\",
+  "WorkspaceRootPath": "D:\\HOC TAP\\HOC KY 5\\ASP\\Code\\FinalTest1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DAF270B5-4A05-4EF8-A0B9-3055DDE9524E}|FinalTest1\\FinalTest1.csproj|D:\\TLHT\\ASP.NET\\KTHP\\FinalTest1\\finaltest1\\controllers\\nhanvienscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DAF270B5-4A05-4EF8-A0B9-3055DDE9524E}|FinalTest1\\FinalTest1.csproj|solutionrelative:finaltest1\\controllers\\nhanvienscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DAF270B5-4A05-4EF8-A0B9-3055DDE9524E}|FinalTest1\\FinalTest1.csproj|d:\\hoc tap\\hoc ky 5\\asp\\code\\finaltest1\\finaltest1\\models\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF270B5-4A05-4EF8-A0B9-3055DDE9524E}|FinalTest1\\FinalTest1.csproj|solutionrelative:finaltest1\\models\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DAF270B5-4A05-4EF8-A0B9-3055DDE9524E}|FinalTest1\\FinalTest1.csproj|d:\\tlht\\asp.net\\kthp\\finaltest1\\finaltest1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DAF270B5-4A05-4EF8-A0B9-3055DDE9524E}|FinalTest1\\FinalTest1.csproj|solutionrelative:finaltest1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DAF270B5-4A05-4EF8-A0B9-3055DDE9524E}|FinalTest1\\FinalTest1.csproj|d:\\hoc tap\\hoc ky 5\\asp\\code\\finaltest1\\finaltest1\\views\\nhanviens\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DAF270B5-4A05-4EF8-A0B9-3055DDE9524E}|FinalTest1\\FinalTest1.csproj|solutionrelative:finaltest1\\views\\nhanviens\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DAF270B5-4A05-4EF8-A0B9-3055DDE9524E}|FinalTest1\\FinalTest1.csproj|d:\\tlht\\asp.net\\kthp\\finaltest1\\finaltest1\\views\\nhanviens\\diachilist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DAF270B5-4A05-4EF8-A0B9-3055DDE9524E}|FinalTest1\\FinalTest1.csproj|solutionrelative:finaltest1\\views\\nhanviens\\diachilist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DAF270B5-4A05-4EF8-A0B9-3055DDE9524E}|FinalTest1\\FinalTest1.csproj|d:\\hoc tap\\hoc ky 5\\asp\\code\\finaltest1\\finaltest1\\views\\nhanviens\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DAF270B5-4A05-4EF8-A0B9-3055DDE9524E}|FinalTest1\\FinalTest1.csproj|solutionrelative:finaltest1\\views\\nhanviens\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DAF270B5-4A05-4EF8-A0B9-3055DDE9524E}|FinalTest1\\FinalTest1.csproj|d:\\tlht\\asp.net\\kthp\\finaltest1\\finaltest1\\views\\nhanviens\\listphong.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DAF270B5-4A05-4EF8-A0B9-3055DDE9524E}|FinalTest1\\FinalTest1.csproj|solutionrelative:finaltest1\\views\\nhanviens\\listphong.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DAF270B5-4A05-4EF8-A0B9-3055DDE9524E}|FinalTest1\\FinalTest1.csproj|D:\\TLHT\\ASP.NET\\KTHP\\FinalTest1\\finaltest1\\views\\nhanviens\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DAF270B5-4A05-4EF8-A0B9-3055DDE9524E}|FinalTest1\\FinalTest1.csproj|solutionrelative:finaltest1\\views\\nhanviens\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DAF270B5-4A05-4EF8-A0B9-3055DDE9524E}|FinalTest1\\FinalTest1.csproj|D:\\TLHT\\ASP.NET\\KTHP\\FinalTest1\\finaltest1\\models\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DAF270B5-4A05-4EF8-A0B9-3055DDE9524E}|FinalTest1\\FinalTest1.csproj|D:\\HOC TAP\\HOC KY 5\\ASP\\Code\\FinalTest1\\finaltest1\\models\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DAF270B5-4A05-4EF8-A0B9-3055DDE9524E}|FinalTest1\\FinalTest1.csproj|solutionrelative:finaltest1\\models\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DAF270B5-4A05-4EF8-A0B9-3055DDE9524E}|FinalTest1\\FinalTest1.csproj|D:\\TLHT\\ASP.NET\\KTHP\\FinalTest1\\finaltest1\\models\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DAF270B5-4A05-4EF8-A0B9-3055DDE9524E}|FinalTest1\\FinalTest1.csproj|solutionrelative:finaltest1\\models\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DAF270B5-4A05-4EF8-A0B9-3055DDE9524E}|FinalTest1\\FinalTest1.csproj|D:\\TLHT\\ASP.NET\\KTHP\\FinalTest1\\finaltest1\\views\\nhanviens\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DAF270B5-4A05-4EF8-A0B9-3055DDE9524E}|FinalTest1\\FinalTest1.csproj|solutionrelative:finaltest1\\views\\nhanviens\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,130 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DiaChiList.cshtml",
-              "DocumentMoniker": "D:\\TLHT\\ASP.NET\\KTHP\\FinalTest1\\FinalTest1\\Views\\NhanViens\\DiaChiList.cshtml",
-              "RelativeDocumentMoniker": "FinalTest1\\Views\\NhanViens\\DiaChiList.cshtml",
-              "ToolTip": "D:\\TLHT\\ASP.NET\\KTHP\\FinalTest1\\FinalTest1\\Views\\NhanViens\\DiaChiList.cshtml",
-              "RelativeToolTip": "FinalTest1\\Views\\NhanViens\\DiaChiList.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "D:\\HOC TAP\\HOC KY 5\\ASP\\Code\\FinalTest1\\FinalTest1\\Models\\NhanVien.cs",
+              "RelativeDocumentMoniker": "FinalTest1\\Models\\NhanVien.cs",
+              "ToolTip": "D:\\HOC TAP\\HOC KY 5\\ASP\\Code\\FinalTest1\\FinalTest1\\Models\\NhanVien.cs",
+              "RelativeToolTip": "FinalTest1\\Models\\NhanVien.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwB0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T07:33:51.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\HOC TAP\\HOC KY 5\\ASP\\Code\\FinalTest1\\FinalTest1\\Views\\NhanViens\\Edit.cshtml",
+              "RelativeDocumentMoniker": "FinalTest1\\Views\\NhanViens\\Edit.cshtml",
+              "ToolTip": "D:\\HOC TAP\\HOC KY 5\\ASP\\Code\\FinalTest1\\FinalTest1\\Views\\NhanViens\\Edit.cshtml",
+              "RelativeToolTip": "FinalTest1\\Views\\NhanViens\\Edit.cshtml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFQAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-26T07:22:30.872Z",
+              "WhenOpened": "2024-12-26T07:32:29.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\HOC TAP\\HOC KY 5\\ASP\\Code\\FinalTest1\\FinalTest1\\Views\\NhanViens\\Create.cshtml",
+              "RelativeDocumentMoniker": "FinalTest1\\Views\\NhanViens\\Create.cshtml",
+              "ToolTip": "D:\\HOC TAP\\HOC KY 5\\ASP\\Code\\FinalTest1\\FinalTest1\\Views\\NhanViens\\Create.cshtml",
+              "RelativeToolTip": "FinalTest1\\Views\\NhanViens\\Create.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAE8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T07:32:23.591Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ListPhong.cshtml",
-              "DocumentMoniker": "D:\\TLHT\\ASP.NET\\KTHP\\FinalTest1\\FinalTest1\\Views\\NhanViens\\ListPhong.cshtml",
-              "RelativeDocumentMoniker": "FinalTest1\\Views\\NhanViens\\ListPhong.cshtml",
-              "ToolTip": "D:\\TLHT\\ASP.NET\\KTHP\\FinalTest1\\FinalTest1\\Views\\NhanViens\\ListPhong.cshtml",
-              "RelativeToolTip": "FinalTest1\\Views\\NhanViens\\ListPhong.cshtml",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-26T07:22:26.454Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Taikhoan.cs",
-              "DocumentMoniker": "D:\\TLHT\\ASP.NET\\KTHP\\FinalTest1\\FinalTest1\\Models\\Taikhoan.cs",
+              "DocumentMoniker": "D:\\HOC TAP\\HOC KY 5\\ASP\\Code\\FinalTest1\\FinalTest1\\Models\\Taikhoan.cs",
               "RelativeDocumentMoniker": "FinalTest1\\Models\\Taikhoan.cs",
-              "ToolTip": "D:\\TLHT\\ASP.NET\\KTHP\\FinalTest1\\FinalTest1\\Models\\Taikhoan.cs",
+              "ToolTip": "D:\\HOC TAP\\HOC KY 5\\ASP\\Code\\FinalTest1\\FinalTest1\\Models\\Taikhoan.cs",
               "RelativeToolTip": "FinalTest1\\Models\\Taikhoan.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-26T04:25:11.552Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "D:\\TLHT\\ASP.NET\\KTHP\\FinalTest1\\FinalTest1\\Views\\NhanViens\\Login.cshtml",
-              "RelativeDocumentMoniker": "FinalTest1\\Views\\NhanViens\\Login.cshtml",
-              "ToolTip": "D:\\TLHT\\ASP.NET\\KTHP\\FinalTest1\\FinalTest1\\Views\\NhanViens\\Login.cshtml",
-              "RelativeToolTip": "FinalTest1\\Views\\NhanViens\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-26T04:16:53.55Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\TLHT\\ASP.NET\\KTHP\\FinalTest1\\FinalTest1\\Views\\NhanViens\\Index.cshtml",
-              "RelativeDocumentMoniker": "FinalTest1\\Views\\NhanViens\\Index.cshtml",
-              "ToolTip": "D:\\TLHT\\ASP.NET\\KTHP\\FinalTest1\\FinalTest1\\Views\\NhanViens\\Index.cshtml",
-              "RelativeToolTip": "FinalTest1\\Views\\NhanViens\\Index.cshtml",
-              "ViewState": "AgIAABcAAAAAAAAAAAAQwDoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-26T04:12:18.563Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\TLHT\\ASP.NET\\KTHP\\FinalTest1\\FinalTest1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "FinalTest1\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\TLHT\\ASP.NET\\KTHP\\FinalTest1\\FinalTest1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "FinalTest1\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-26T04:00:25.591Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "NhanViensController.cs",
-              "DocumentMoniker": "D:\\TLHT\\ASP.NET\\KTHP\\FinalTest1\\FinalTest1\\Controllers\\NhanViensController.cs",
-              "RelativeDocumentMoniker": "FinalTest1\\Controllers\\NhanViensController.cs",
-              "ToolTip": "D:\\TLHT\\ASP.NET\\KTHP\\FinalTest1\\FinalTest1\\Controllers\\NhanViensController.cs",
-              "RelativeToolTip": "FinalTest1\\Controllers\\NhanViensController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T02:39:10.636Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Model1.cs",
-              "DocumentMoniker": "D:\\TLHT\\ASP.NET\\KTHP\\FinalTest1\\FinalTest1\\Models\\Model1.cs",
-              "RelativeDocumentMoniker": "FinalTest1\\Models\\Model1.cs",
-              "ToolTip": "D:\\TLHT\\ASP.NET\\KTHP\\FinalTest1\\FinalTest1\\Models\\Model1.cs",
-              "RelativeToolTip": "FinalTest1\\Models\\Model1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T02:37:55.879Z"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }

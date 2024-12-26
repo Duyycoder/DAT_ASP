@@ -75,11 +75,12 @@
         $(function () {
             $("#btnCreate").click(function () {
                 var nv = {};
+                nv.Manv = $("#Manv").val();
                 nv.Hoten = $("#Hoten").val();
                 nv.Tuoi = $("#Tuoi").val();
                 nv.Diachi = $("#Diachi").val();
                 nv.Luong = $("#Luong").val();
-                nv.Maphong = $("Maphong").val();
+                nv.Maphong = $("#Maphong").val();
 
                 $.ajax({
                     type: "POST",

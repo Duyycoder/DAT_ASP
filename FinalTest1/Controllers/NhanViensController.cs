@@ -69,7 +69,7 @@ namespace FinalTest1.Controllers
                 {
                     db.NhanViens.Add(nv);
                     db.SaveChanges();
-                    return Json(new { result = false, JsonRequestBehavior.AllowGet });
+                    return Json(new { result = true, JsonRequestBehavior.AllowGet });
                 }
                 else
                 {
